@@ -1,7 +1,7 @@
 Tab-less
 ========
 
-This extension disables tabbed browsing in Google Chrome. Rather than opening new tabs, Chrome will open windows wherever possible.
+This extension disables tabbed browsing in Google Chrome. Stops chrome from opening new tabs. good to prevent cmd + t quick swap procrastination. Procrastination now requires sacrificing the current tab and learning the focus omnibox shortcut.
 
 FAQs
 ----
